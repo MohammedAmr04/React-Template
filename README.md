@@ -16,7 +16,7 @@
 ## 📂 Project Structure
 
 📂 src
-📂 assets # Static assets (images, icons, fonts).
+📂 assets # Static assets (images, icons, fonts).<br/>
 📂 components # Reusable UI components.
 📂 pages # Full page views.
 📂 styles # Global and reusable styles.
