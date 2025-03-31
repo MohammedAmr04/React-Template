@@ -1,13 +1,50 @@
-# React + Vite
+# 📚 React-Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 A **fast, scalable, and modular React project** built with **Vite** for high performance and better developer experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Table of Contents
 
-## Expanding the ESLint configuration
+- [📚 React-Template](#-react-template)
+  - [📌 Table of Contents](#-table-of-contents)
+  - [📂 Project Structure](#-project-structure)
+  - [📜 Folder Descriptions](#-folder-descriptions)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# React-Template" 
+---
+
+## 📂 Project Structure
+
+📂 src
+┣ 📂 assets # Static assets (images, icons, fonts)
+┣ 📂 components # Reusable UI components
+┣ 📂 pages # Full page views
+┣ 📂 styles # Global and reusable styles
+┣ 📂 store # Global state management (Redux/Zustand)
+┣ 📂 context # React Context for state management
+┣ 📂 utils # Helper functions
+┣ 📂 hooks # Custom hooks
+┣ 📂 services # Service files for handling API requests
+┣ 📂 routes # Application routing setup
+┣ 📂 config # API & environment configurations
+┣ 📄 App.jsx # Main application file
+┣ 📄 index.jsx # Entry point of the app
+┗ 📄 README.md # Project documentation
+
+---
+
+## 📜 Folder Descriptions
+
+📂 **`assets/`** – Contains static files like images, icons, and fonts.  
+📂 **`components/`** – Houses reusable UI components like buttons, modals, and cards.  
+📂 **`pages/`** – Contains full pages/views (e.g., Home, Dashboard, Login).  
+📂 **`styles/`** – Holds global styles such as variables, typography, and layouts.  
+📂 **`store/`** – Manages global state using Redux or Zustand.  
+📂 **`context/`** – Provides state management using React Context API.  
+📂 **`utils/`** – Includes helper functions for data formatting and API handling.  
+📂 **`hooks/`** – Custom React hooks for reusable logic.  
+📂 **`services/`** – Service files for handling API requests and business logic.  
+📂 **`routes/`** – Manages React Router configurations and navigation.  
+📂 **`config/`** – Stores API endpoints, authentication logic, and environment settings.
+
+---
