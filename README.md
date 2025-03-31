@@ -15,21 +15,21 @@
 
 ## 📂 Project Structure
 
-📂 src
+📂 src<br/>
 📂 assets # Static assets (images, icons, fonts).<br/>
-📂 components # Reusable UI components.
-📂 pages # Full page views.
-📂 styles # Global and reusable styles.
-📂 store # Global state management (Redux/Zustand).
-📂 context # React Context for state management.
-📂 utils # Helper functions.
-📂 hooks # Custom hooks.
-📂 services # Service files for handling API requests.
-📂 routes # Application routing setup.
-📂 config # API & environment configurations.
-📄 App.jsx # Main application file.
-📄 index.jsx # Entry point of the app.
-📄 README.md # Project documentation.
+📂 components # Reusable UI components.<br/>
+📂 pages # Full page views.<br/>
+📂 styles # Global and reusable styles.<br/>
+📂 store # Global state management (Redux/Zustand).<br/>
+📂 context # React Context for state management.<br/>
+📂 utils # Helper functions.<br/>
+📂 hooks # Custom hooks.<br/>
+📂 services # Service files for handling API requests.<br/>
+📂 routes # Application routing setup.<br/>
+📂 config # API & environment configurations.<br/>
+📄 App.jsx # Main application file.<br/>
+📄 index.jsx # Entry point of the app.<br/>
+📄 README.md # Project documentation.<br/>
 
 ---
 
